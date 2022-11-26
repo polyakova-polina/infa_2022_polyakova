@@ -1,1 +1,1 @@
-# infa_2022_polyakova
+# infa_2022_polyakova(pygame)
