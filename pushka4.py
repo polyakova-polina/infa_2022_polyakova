@@ -1,4 +1,4 @@
-mport math
+import math
 from random import choice, randint
 
 from pygame.draw import line, circle
