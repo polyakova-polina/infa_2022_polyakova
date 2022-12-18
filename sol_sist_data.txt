@@ -1,0 +1,6 @@
+mass 200000000000000 radius 20 colour 255 255 0 coord 400 300 vel 0 0
+mass 200000000 radius 4 colour 70 130 180 coord 500 300 vel 0 -11.4
+mass 130000000 radius 3 colour 178 34 34 coord 550 300 vel 0 -9.4
+mass 20000000000 radius 8 colour 255 127 80 coord 650 300 vel 0 -7.3
+mass 17000000000 radius 7 colour 240 230 140 coord 700 300 vel 0 -6.7
+mass 22000000000 radius 10 colour 70 130 180 coord 750 300 vel 0 -7

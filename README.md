@@ -1,1 +1,2 @@
-# infa_2022_polyakova(pygame)
+# solar_project
+Модель Солнечной системы на языке Python
